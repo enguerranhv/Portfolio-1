@@ -1,0 +1,199 @@
+<TPGL>
+  <!-- Copyright @ 2026 FANUC America Corporation and FANUC LTD Japan ALL RIGHTS RESERVED -->
+  <SETPOD name="D177" uiname="Blister" fullname="SimPRO.RGCMachine">
+    <filesize>"49.538(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D177.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D3338E3338" uiname="Déplacement_Pile1" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D3338E3338.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G104V1" uiname="DoubleVentouse" fullname="SimPRO.RGCEOAT">
+    <filesize>"109.662(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G104V1.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX3993" uiname="Grillage de protection4" fullname="SimPRO.RGCFixture">
+    <filesize>"645.498(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX3993.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D199E199" uiname="Déplacement_Pile" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D199E199.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176" uiname="ArrivéPiles" fullname="SimPRO.RGCMachine">
+    <filesize>"49.538(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U120" uiname="UFrame7" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U120.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G104V2" uiname="DoubleVentouse" fullname="SimPRO.RGCEOAT">
+    <filesize>"109.662(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G104V1.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J5" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"48.459(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J5.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294P3684" uiname="Pile1[2]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U121" uiname="UFrame8" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U121.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX3992" uiname="Grillage de protection3" fullname="SimPRO.RGCFixture">
+    <filesize>"645.498(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX3992.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX3982" uiname="Operation_Panel01" fullname="SimPRO.RGCFixture">
+    <filesize>"124.309(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX3982.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX3958" uiname="Grillage de protection2" fullname="SimPRO.RGCFixture">
+    <filesize>"645.498(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX3958.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294E294" uiname="Déplacement_blister" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D177D294E294.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294P537" uiname="Pile[1,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294E294CURPOS0" uiname="Déplacement_blister" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D177D294E294CURPOS0.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J3" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"44.257(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J3.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294P423" uiname="Blister" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"34.436(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D177D294P423.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D3338P3748" uiname="Pile1" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D199P269" uiname="Pile" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U122" uiname="UFrame9" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U122.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U118" uiname="UFrame5" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U118.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G104P3142" uiname="Pile" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX4035" uiname="Grillage de protection5" fullname="SimPRO.RGCFixture">
+    <filesize>"645.498(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX4035.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D199" uiname="Déplacement_Pile" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D199.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U117" uiname="UFrame4" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U117.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J1" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"62.351(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J1.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX4060" uiname="Portaille d'accès" fullname="SimPRO.RGCFixture">
+    <filesize>"645.498(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX4060.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX3849" uiname="Grillage de protection1" fullname="SimPRO.RGCFixture">
+    <filesize>"645.498(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX3849.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U116" uiname="UFrame3" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U116.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U102">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U102.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="FX3972" uiname="Jean claude" fullname="SimPRO.RGCFixture">
+    <filesize>"141.994(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\FX3972.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J4" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"66.359(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J4.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D199E199CURPOS0" uiname="Déplacement_Pile" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D199E199CURPOS0.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102x2000000020" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"4.854(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102x2000000020.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U114" uiname="UF_Pile" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U114.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J0" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"53.081(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J0.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294P611" uiname="Pile[2,1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U119" uiname="UFrame6" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U119.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294P3610" uiname="Pile1[1]" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D3338" uiname="Déplacement_Pile1" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D199.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102G104P3539" uiname="Pile1" fullname="SimPRO.RGCAttachedPart">
+    <filesize>"131.721(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102G103P185.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J6" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"46.647(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J6.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D172" uiname="Dressout1" fullname="SimPRO.RGCMachine">
+    <filesize>"74.681(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D172.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D176D3338E3338CURPOS0" uiname="Déplacement_Pile1" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D3338E3338CURPOS0.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="D177D294" uiname="Déplacement_blister" fullname="SimPRO.RGCMachineLink">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\D176D199.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102U115" uiname="UF_blister" fullname="SimPRO.RGCUserFrame">
+    <filesize>"4.296(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102U115.pod"</filepath>
+  </SETPOD>
+  <SETPOD name="C1R102_rb_J2" uiname="GP: 1 - LR Mate 200iD" fullname="SimPRO.RGCRobotGroup">
+    <filesize>"95.592(Kbyte)"</filesize>
+    <filepath>"D:\Home\ehollendervo\Documents\My Workcells\Projet_Pile_bouton_roboguide V5\RG3DPlayer\Projet_Pile_bouton_roboguide V5_Rg_2026_06_18_t_16_25_50\cad\C1R102_rb_J2.pod"</filepath>
+  </SETPOD>
+</TPGL>

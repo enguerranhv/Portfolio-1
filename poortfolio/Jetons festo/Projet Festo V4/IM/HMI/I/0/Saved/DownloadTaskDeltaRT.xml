@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="ce22d81f-bec5-40c3-b6c5-43afd01d7e3c" ESProjectName="Projet Festo V4" ESDeviceName="HMI_RT_1" RtProjectFolderName="Projet Festo V4.HMI_1[MTP1000 Unified Comfort]" RtProjectName="Projet Festo V4.HMI_1[MTP1000 Unified Comfort]" DeviceType="MTP1000 Unified Comfort" DeviceVersion="20.0.0.2" CreationTime="05/22/2026 13:54:46" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="UCP_7_22\UCP_7_22_V20_0.fwf" RuntimeFileName="" PRCV="6.0.0.2" RTCV="16.0.0.0" RTReleaseNo="20.0.0.2" ImageReleaseNo="20.0.0.2" />
+  <DeltaDownload>deltas\382\ChromIdentification.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaConfig_AlertHandler.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaConfig_InitialValue.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaConfig_SecureConnAttributes.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaDpIdentification.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaES2RTID.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaMain.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\deltaTextLibrary_2_1036.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\ProcessDiagnosticsDnnData.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\ProjectCharacteristics.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\SystemDiagnosticsDnnData.rdf</DeltaDownload>
+  <DeltaDownload>deltas\382\config\config.level</DeltaDownload>
+</DownloadTask>

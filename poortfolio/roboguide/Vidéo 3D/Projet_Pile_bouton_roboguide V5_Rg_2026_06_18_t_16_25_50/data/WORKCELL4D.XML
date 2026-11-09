@@ -1,0 +1,222 @@
+<TPGL>
+<!-- Copyright @ 2026 FANUC America Corporation and FANUC LTD Japan ALL RIGHTS RESERVED -->
+ <VIEW loc="-169.282, 1523.114, 133.063, 2.581, 31.500, -168.593" />
+ <SETATR id="/attr/Workcell6_floor" color="#00808080" opac="85" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/Workcell6_grid" color="#00454545" opac="85" sel="1" style="#0000" vis="1" weight="2" />
+ <SETATR id="/attr/C1R102" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J0" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J1" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J2" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J3" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J4" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J5" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102_rb_J6" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102G103P185" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="0" weight="1" />
+ <SETATR id="/attr/C1R102G104P3142" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="0" weight="1" />
+ <SETATR id="/attr/C1R102G104P3539" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="0" weight="1" />
+ <SETATR id="/attr/C1R102U102" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U114" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U115" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U116" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U117" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U118" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U119" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U120" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U121" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102U122" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102x2000000020" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D172" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D199" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D199E199" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D199E199CURPOS0" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D199P269" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D3338" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D3338E3338" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D3338E3338CURPOS0" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D176D3338P3748" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294E294" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294E294CURPOS0" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294P3610" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294P3684" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294P423" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294P537" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/D177D294P611" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX3849" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX3958" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX3972" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX3982" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX3992" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX3993" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX4035" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/FX4060" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102G103V1" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102G103V2" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102G104V1" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETATR id="/attr/C1R102G104V2" color="#ffc0c0c0" opac="100" sel="1" style="#0000" vis="1" weight="1" />
+ <SETGN id = "cell">
+   <SETGN id="floor" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000">
+    <SETWALL id="wall" siz="20000.00, 20000.00, 0.00" side="1" aid="/attr/Workcell6_floor" fid=""/>
+   </SETGN>
+   <SETGN id="floor" loc="0.000, 0.000, 0.010, 0.000, 0.000, 0.000">
+    <SETGRID id="grid" siz="20000.00, 20000.00, 0.00" grid="1000.00" side="1" aid="/attr/Workcell6_grid" fid=""/>
+   </SETGN>
+   <SETGN id="C1R102" loc="0.000, 0.000, 0.000, -90.000, -90.000, 0.000">
+    <SETGN id="C1R102_rb_J0" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000">
+     <SETPOD id="C1R102_rb_J0" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J0.pod" aid="/attr/C1R102_rb_J0" fid="" />
+    </SETGN>
+    <SETGN id="C1R102_rb_J1" loc="0.000, 0.000, 0.000, -90.203, 0.000, 0.000">
+     <SETPOD id="C1R102_rb_J1" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J1.pod" aid="/attr/C1R102_rb_J1" fid="" />
+    </SETGN>
+    <SETGN id="C1R102_rb_J2" loc="-0.578, -0.014, -3.976, -90.203, -0.690, 0.002">
+     <SETPOD id="C1R102_rb_J2" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J2.pod" aid="/attr/C1R102_rb_J2" fid="" />
+    </SETGN>
+    <SETGN id="C1R102_rb_J3" loc="-1.789, -0.117, -33.106, -90.203, -3.214, 0.011">
+     <SETPOD id="C1R102_rb_J3" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J3.pod" aid="/attr/C1R102_rb_J3" fid="" />
+    </SETGN>
+    <SETGN id="C1R102_rb_J4" loc="-1.507, 19.701, -33.160, -90.111, -3.218, -1.625">
+     <SETPOD id="C1R102_rb_J4" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J4.pod" aid="/attr/C1R102_rb_J4" fid="" />
+    </SETGN>
+    <SETGN id="C1R102_rb_J5" loc="571.397, 4.229, 403.108, -90.175, 50.690, -1.767">
+     <SETPOD id="C1R102_rb_J5" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J5.pod" aid="/attr/C1R102_rb_J5" fid="" />
+    </SETGN>
+    <SETGN id="C1R102_rb_J6" loc="572.375, 28.846, 402.723, -92.654, 50.640, -4.971">
+     <SETPOD id="C1R102_rb_J6" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102_rb_J6.pod" aid="/attr/C1R102_rb_J6" fid="" />
+    </SETGN>
+   </SETGN>
+   <SETGN id="C1R102G103P185" loc="1.557, -466.654, 606.131, 3.768, -39.184, -94.067">
+   </SETGN>
+   <SETGN id="C1R102G104P3142" loc="2.458, -450.143, 597.913, -3.765, 39.184, 85.934">
+    <SETPOD id="C1R102G104P3142" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/C1R102G104P3142" fid="" />
+   </SETGN>
+   <SETGN id="C1R102G104P3539" loc="0.480, -477.978, 620.658, 3.765, -39.184, -94.066">
+    <SETPOD id="C1R102G104P3539" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/C1R102G104P3539" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U102" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U102" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U102.pod" aid="/attr/C1R102U102" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U114" loc="245.000, -165.000, 450.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U114" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U114.pod" aid="/attr/C1R102U114" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U115" loc="198.000, -289.000, 482.231, 0.000, 0.000, -90.000">
+    <SETPOD id="C1R102U115" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U115.pod" aid="/attr/C1R102U115" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U116" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U116" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U116.pod" aid="/attr/C1R102U116" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U117" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U117" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U117.pod" aid="/attr/C1R102U117" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U118" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U118" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U118.pod" aid="/attr/C1R102U118" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U119" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U119" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U119.pod" aid="/attr/C1R102U119" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U120" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U120" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U120.pod" aid="/attr/C1R102U120" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U121" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U121" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U121.pod" aid="/attr/C1R102U121" fid="" />
+   </SETGN>
+   <SETGN id="C1R102U122" loc="0.000, 0.000, 330.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102U122" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102U122.pod" aid="/attr/C1R102U122" fid="" />
+   </SETGN>
+   <SETGN id="C1R102x2000000020" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="C1R102x2000000020" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102x2000000020.pod" aid="/attr/C1R102x2000000020" fid="" />
+   </SETGN>
+   <SETGN id="D172" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="D172" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D172.pod" aid="/attr/D172" fid="" />
+   </SETGN>
+   <SETGN id="D176" loc="270.000, -175.000, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="D176" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176.pod" aid="/attr/D176" fid="" />
+   </SETGN>
+   <SETGN id="D176D199" loc="270.000, 1475.000, 455.000, -0.000, 1.757, 180.000">
+    <SETPOD id="D176D199" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D199.pod" aid="/attr/D176D199" fid="" />
+   </SETGN>
+   <SETGN id="D176D199E199" loc="270.000, 1625.000, 275.000, -180.000, 0.000, 0.000">
+    <SETPOD id="D176D199E199" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D199E199.pod" aid="/attr/D176D199E199" fid="" />
+   </SETGN>
+   <SETGN id="D176D199E199CURPOS0" loc="270.000, 1625.000, 275.000, -180.000, 0.000, 0.000">
+    <SETPOD id="D176D199E199CURPOS0" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D199E199CURPOS0.pod" aid="/attr/D176D199E199CURPOS0" fid="" />
+   </SETGN>
+   <SETGN id="D176D199P269" loc="270.000, 1475.000, 455.000, 1.757, -0.000, -90.000">
+    <SETPOD id="D176D199P269" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/D176D199P269" fid="" />
+   </SETGN>
+   <SETGN id="D176D3338" loc="270.000, 1510.885, 455.000, -0.000, 1.757, 180.000">
+    <SETPOD id="D176D3338" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D199.pod" aid="/attr/D176D3338" fid="" />
+   </SETGN>
+   <SETGN id="D176D3338E3338" loc="270.000, 1605.000, 275.000, -180.000, 0.000, 0.000">
+    <SETPOD id="D176D3338E3338" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D3338E3338.pod" aid="/attr/D176D3338E3338" fid="" />
+   </SETGN>
+   <SETGN id="D176D3338E3338CURPOS0" loc="270.000, 1605.000, 275.000, -180.000, 0.000, 0.000">
+    <SETPOD id="D176D3338E3338CURPOS0" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D3338E3338CURPOS0.pod" aid="/attr/D176D3338E3338CURPOS0" fid="" />
+   </SETGN>
+   <SETGN id="D176D3338P3748" loc="270.000, 1510.885, 455.000, -0.000, 1.757, 180.000">
+    <SETPOD id="D176D3338P3748" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/D176D3338P3748" fid="" />
+   </SETGN>
+   <SETGN id="D177" loc="360.000, -1765.000, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="D177" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D177.pod" aid="/attr/D177" fid="" />
+   </SETGN>
+   <SETGN id="D177D294" loc="360.000, -15.000, 450.000, 0.000, 0.000, 0.000">
+    <SETPOD id="D177D294" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D176D199.pod" aid="/attr/D177D294" fid="" />
+   </SETGN>
+   <SETGN id="D177D294E294" loc="360.000, -1865.000, 270.000, 0.000, 0.000, 0.000">
+    <SETPOD id="D177D294E294" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D177D294E294.pod" aid="/attr/D177D294E294" fid="" />
+   </SETGN>
+   <SETGN id="D177D294E294CURPOS0" loc="360.000, -1865.000, 270.000, 0.000, 0.000, 0.000">
+    <SETPOD id="D177D294E294CURPOS0" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D177D294E294CURPOS0.pod" aid="/attr/D177D294E294CURPOS0" fid="" />
+   </SETGN>
+   <SETGN id="D177D294P3610" loc="342.500, 2.061, 454.690, 0.000, 0.000, 0.000">
+    <SETPOD id="D177D294P3610" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/D177D294P3610" fid="" />
+   </SETGN>
+   <SETGN id="D177D294P3684" loc="377.881, 2.061, 454.690, 0.000, 0.000, 0.000">
+    <SETPOD id="D177D294P3684" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/D177D294P3684" fid="" />
+   </SETGN>
+   <SETGN id="D177D294P423" loc="360.000, -15.000, 455.000, 180.000, 0.000, 180.000">
+    <SETPOD id="D177D294P423" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/D177D294P423.pod" aid="/attr/D177D294P423" fid="" />
+   </SETGN>
+   <SETGN id="D177D294P537" loc="342.378, -32.995, 454.614, 0.000, 0.000, -90.000">
+    <SETPOD id="D177D294P537" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/D177D294P537" fid="" />
+   </SETGN>
+   <SETGN id="D177D294P611" loc="377.378, -32.995, 454.614, 0.000, 0.000, -90.000">
+    <SETPOD id="D177D294P611" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G103P185.pod" aid="/attr/D177D294P611" fid="" />
+   </SETGN>
+   <SETGN id="FX3849" loc="-983.442, 2250.421, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="FX3849" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX3849.pod" aid="/attr/FX3849" fid="" />
+   </SETGN>
+   <SETGN id="FX3958" loc="500.000, -2200.001, 0.000, 0.000, 0.000, 90.000">
+    <SETPOD id="FX3958" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX3958.pod" aid="/attr/FX3958" fid="" />
+   </SETGN>
+   <SETGN id="FX3972" loc="-2057.000, 1000.000, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="FX3972" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX3972.pod" aid="/attr/FX3972" fid="" />
+   </SETGN>
+   <SETGN id="FX3982" loc="-1138.999, 172.000, 0.000, 0.000, 0.000, -90.000">
+    <SETPOD id="FX3982" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX3982.pod" aid="/attr/FX3982" fid="" />
+   </SETGN>
+   <SETGN id="FX3992" loc="-1000.000, -2300.000, 0.000, 0.000, 0.000, 90.000">
+    <SETPOD id="FX3992" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX3992.pod" aid="/attr/FX3992" fid="" />
+   </SETGN>
+   <SETGN id="FX3993" loc="-877.000, -2232.940, 0.000, 0.000, 0.000, 0.000">
+    <SETPOD id="FX3993" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX3993.pod" aid="/attr/FX3993" fid="" />
+   </SETGN>
+   <SETGN id="FX4035" loc="-1000.000, 1078.000, 0.000, 0.000, 0.000, 90.000">
+    <SETPOD id="FX4035" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX4035.pod" aid="/attr/FX4035" fid="" />
+   </SETGN>
+   <SETGN id="FX4060" loc="-800.000, 77.000, 0.000, 0.000, 0.000, 90.000">
+    <SETPOD id="FX4060" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/FX4060.pod" aid="/attr/FX4060" fid="" />
+   </SETGN>
+   <SETGN id="C1R102G103V1" loc="0.327, -429.235, 651.815, -176.232, -39.184, -94.067">
+   </SETGN>
+   <SETGN id="C1R102G103V2" loc="342.368, -32.984, 514.140, -179.999, -0.000, 0.001">
+   </SETGN>
+   <SETGN id="C1R102G104V1" loc="0.325, -429.217, 651.825, -176.235, -39.184, -94.066">
+    <SETPOD id="C1R102G104V1" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G104V1.pod" aid="/attr/C1R102G104V1" fid="" />
+   </SETGN>
+   <SETGN id="C1R102G104V2" loc="377.368, -14.961, 509.614, 180.000, -0.001, 90.000">
+    <SETPOD id="C1R102G104V2" loc="0.000, 0.000, 0.000, 0.000, 0.000, 0.000" URL="/fr/C1R102G104V1.pod" aid="/attr/C1R102G104V2" fid="" />
+   </SETGN>
+ </SETGN>
+</TPGL>

@@ -1,0 +1,19 @@
+{
+"name": "Projet_Pile_bouton_roboguide V5",
+"workcell": "Projet_Pile_bouton_roboguide V5",
+"rgversion": "9.30105.00.02",
+"creationDate": "2026-06-18T16:25:50",
+"workcellFile": "data/WORKCELL4D.XML",
+"description": "HandlingPRO Workcell",
+"image": "folder.jpg",
+"animationFiles": [
+  { "name": "default",
+    "file": "data/ANIMATION.XML"
+  }
+],
+"viewpoints": [
+  { "name": "initial",
+    "viewpoint": "view_data"
+  }
+]
+}
